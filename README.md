@@ -1,6 +1,6 @@
 # Virus-Scripts
 ###############
-1)unzip Virus.zip file
+1)Download Python Text Editor 
 ###############
 2)python3 Run.py
 ###############
